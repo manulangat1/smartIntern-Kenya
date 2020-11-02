@@ -1,0 +1,16 @@
+{
+  "name": "rest-api-smart-intern",
+  "version": "1.0.0",
+  "description": "REST API FOR MICROSERVICE",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "NODE",
+    "EXPRESS",
+    "SEQUELIZE"
+  ],
+  "author": "EMMANUEL KIPCHIRCHIR LANGAT",
+  "license": "MIT"
+}
