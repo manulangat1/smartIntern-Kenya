@@ -1,7 +1,7 @@
 {
   "name": "rest-api-smart-intern",
   "version": "1.0.0",
-  "description": "REST API FOR MICROSERVICE",
+  "description": "",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
